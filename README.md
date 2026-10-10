@@ -32,7 +32,7 @@ I began by connecting NHL game schedules to team locations and the sequence of g
 
 One of the central challenges in this project was deciding how to measure circadian disruption using historical NHL data. Circadian displacement is an estimate, not a direct measurement of a player's biological clock. Because actual team travel itineraries were not consistently available, I estimated departure times using rules based on consecutive game locations, back-to-back scheduling, days between games, and time zone changes. International travel itineraries were researched separately, with documented travel times used where available.
 
-![Travel timing decision framework](images/travel_timing_flowchart.png)
+![Travel timing decision framework](Images/travel_timing_flowchart.png)
 
 
 *Figure 1: Decision framework used to estimate travel timing for standard NHL scheduling scenarios. Separately researched international itineraries are not shown.*
